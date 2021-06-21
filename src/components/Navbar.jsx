@@ -10,6 +10,9 @@ const Navbar = () => {
           <a>Messages</a>
         </div>
         <div>
+          <a>Apps</a>
+        </div>
+        <div>
           <a>Settings</a>
         </div>
       </nav>
